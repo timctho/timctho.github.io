@@ -21,7 +21,7 @@ Github除了可以管理、分享程式碼之外，也有提供一個服務叫�
 
 (1) repository的名字叫做 `user_name.github.io` ，那之後你的url就會是 `user_name.github.io` ，網站內容直接放在 `master` 中就可以了。
 
-![]({{baseurl}}/images/Git_Page/new_gitpage.png)
+![]({{baseurl}}/images/Git_Page/new_gitpage.png) 
 
 (2) 其他的repository名字，例如叫做 `hello_gitpage`，那之後你的url就會是 `user_name.github.io/hello_gitpage`，而且網站內容不能直接放在 `master`，要另外開一個叫做 `gh-page` 的branch，再放在裡面。
 
