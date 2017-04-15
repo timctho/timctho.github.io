@@ -28,10 +28,23 @@ Github除了可以管理、分享程式碼之外，也有提供一個服務叫�
 
 之後到 `repository -> Settings` ，找到Github Pages，把他啟用就可以了，也有一些簡單的template可以套用。
 
+---
 
 ### Jekyll
+為了方便在本機做網站編輯跟預覽，我們仍然需要安裝Jekyll。 
+Jekyll底層是用Ruby開發的，所以先安裝Ruby。
 
+(1) [Ruby官網](http://rubyinstaller.org/downloads/){:target="_blank"} 下載目前最新的2.3.3版本
 
+(2) 同樣在官網，下載版本相對應的Dev-kit
+
+![]({{baseurl}}/images/Git_Page/ruby.png) 
+
+(3) 安裝完Ruby後，就可以用他的 `gem` 這個指令安裝各種package，當然也包括Jekyll。
+
+`gem install jekyll bundler`
+
+到這邊就安裝完所有需要的東西了，然後如果你和我一樣沒什麼寫網站的經驗，google就有很多 [jekyll template](https://github.com/jekyll/jekyll/wiki/Themes){:target="_blank"}，just find one and start to write!
 
 
 
