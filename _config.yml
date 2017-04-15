@@ -21,6 +21,15 @@ url                 : https://rhadow.github.io/
 paginate            : 5
 
 # Custom vars
+<<<<<<< HEAD
 version             : 0.1.0
 twitter_username    : Rhadow3433
 github_username     : Rhadow
+=======
+version:          2.1.0
+
+github:
+  repo:           https://github.com/poole/hyde
+
+theme: jekyll-theme-slate
+>>>>>>> origin/master
