@@ -1,8 +1,8 @@
 ---
 layout     : post
-title      : "Elm Architecture 裡的 Address 由來"
+title      : "Elm 123123123Architecture 裡的 Address 由來"
 subtitle   : "探討 Elm Architecture 與 Address 和 Signal 之間的關係"
-date       : 2016-04-25
+date       : 2016-04-15
 author     : "Rhadow"
 tags       : Elm
 comments   : true
