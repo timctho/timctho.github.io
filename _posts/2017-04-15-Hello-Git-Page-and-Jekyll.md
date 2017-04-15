@@ -3,7 +3,7 @@ layout     : post
 title      : "Hello Git Page + Jekyll !"
 subtitle   : "Git page建立 + Jekyll安裝流程"
 date       : 2017-04-15
-author     : "Rhadow"
+author     : "Tim Ho"
 tags       : GitPage Jekyll
 comments   : true
 signature  : true
@@ -45,6 +45,8 @@ Jekyll底層是用Ruby開發的，所以先安裝Ruby。
 `gem install jekyll bundler`
 
 到這邊就安裝完所有需要的東西了，然後如果你和我一樣沒什麼寫網站的經驗，google就有很多 [jekyll template](https://github.com/jekyll/jekyll/wiki/Themes){:target="_blank"}，just find one and start to write!
+
+
 
 
 

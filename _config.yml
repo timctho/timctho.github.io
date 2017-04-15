@@ -9,19 +9,19 @@ gems                : ["jekyll-paginate"]
 permalink           : pretty
 
 # Setup
-title               : 'Hello Git Page'
-tagline             : 'JavaScript, front-end, and web development articles'
-description         : 'News, articles and reviews of a variety of web development frameworks and modules.'
+title               : Tim's Learning Notes
+tagline             : 'Life is short, we need python'
+description         : 'AI, Deep Learning, Machine Learning, Computer Vision, Math'
 baseurl             : /
 
-author              : Howard Chang
-name                : 'Howard Chang'
+author              : Tim Ho
+name                : 'Tim Ho'
 url                 : https://timctho.github.io/
 
 paginate            : 5
 
 # Custom vars
 version             : 0.1.0
-twitter_username    : Rhadow3433
-github_username     : Rhadow
+facebook_username   : timctho
+github_username     : timctho
 
