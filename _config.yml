@@ -9,7 +9,7 @@ gems                : ["jekyll-paginate"]
 permalink           : pretty
 
 # Setup
-title               : Rhadow's Tech Note
+title               : 'Hello Git Page'
 tagline             : 'JavaScript, front-end, and web development articles'
 description         : 'News, articles and reviews of a variety of web development frameworks and modules.'
 baseurl             : /
