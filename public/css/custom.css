@@ -104,7 +104,7 @@
 /* Index css */
 
 .theme-base-chocolate .post-info, .post-info-detail {
-    margin-bottom: 10px;
+    margin-bottom: 18px;
 }
 .theme-base-chocolate .post-info, .theme-base-chocolate .post-info a {
     color: #9a9a9a;
@@ -115,7 +115,7 @@
     text-decoration: none;
 }
 .theme-base-chocolate .post-date {
-    font-size: 1rem;
+    font-size: .8rem;
     margin-bottom: .5rem;
 }
 .theme-base-chocolate .post {
