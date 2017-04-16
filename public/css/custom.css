@@ -7,11 +7,11 @@
 /* chocolate Sidebar */
 
 .theme-base-chocolate .sidebar {
-    background-color: #edc951;
-    color: #655643;
+    background-color: #272822;
+    color: #E6E6E6;
 }
 .theme-base-chocolate .sidebar a {
-    color: #655643;
+    color: #E6E6E6;
     font-weight: bold;
 }
 .theme-base-chocolate .sidebar a:hover {
@@ -21,11 +21,11 @@
     text-decoration: none;
 }
 .theme-base-chocolate .sidebar h1 a {
-    color: #655643;
+    color: #E6E6E6;
     font-size: 2.8rem;
 }
 .theme-base-chocolate .sidebar h1 a:hover {
-    color: #655643;
+    color: #E6E6E6;
     text-decoration: none;
 }
 .theme-base-chocolate .sidebar-nav {
@@ -43,13 +43,13 @@
     color: rgba(255, 255, 255, 0.5);
 }
 .theme-base-chocolate .list-inline a:hover .fa-circle {
-    color: #655643;
+    color: #F2F2F2;
 }
 .theme-base-chocolate .list-inline .fa-stack-1x {
     color: #655643;
 }
 .theme-base-chocolate .list-inline a:hover .fa-stack-1x {
-    color: #edc951;
+    color: #bf4d28;
 }
 .theme-base-chocolate .copyright {
     margin-bottom: 0;
@@ -71,7 +71,7 @@
     position: fixed;
     width: 100%;
     margin-bottom: 20px;
-    background-color: #edc951;
+    background-color: #2ECCFA;
     color: #655643;
     z-index: 10;
     text-align: center;

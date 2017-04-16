@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Archives
+title: By Dates
 ---
 <ul class="archive">
   {% for post in site.posts %}
