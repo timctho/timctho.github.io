@@ -2,7 +2,7 @@
   font-family: 'Abril Fatface';
   font-style: normal;
   font-weight: 400;
-  src: url(./fonts/AbrilFatface-Regular.otf) format('opentype');
+  src: url(./fonts/SourceCodePro-Black.otf) format('opentype');
 }
 /* chocolate Sidebar */
 
@@ -52,8 +52,9 @@
     color: #bf4d28;
 }
 .theme-base-chocolate .copyright {
+    margin-left: 0;
     margin-bottom: 0;
-    font-size: 0.5rem;
+    font-size: 0.4rem;
 }
 .theme-base-chocolate .sidebar p.lead {
     font-size: 1rem;

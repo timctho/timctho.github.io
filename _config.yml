@@ -9,7 +9,7 @@ gems                : ["jekyll-paginate"]
 permalink           : pretty
 
 # Setup
-title               : Tim's Learning Notes
+title               : Tim's Tech Notes
 tagline             : 'Life is short, we need python'
 description         : 'AI, Deep Learning, Machine Learning, Computer Vision, Math'
 baseurl             : /

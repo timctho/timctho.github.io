@@ -1,7 +1,7 @@
 ---
 layout     : post
 title      : "Hello Git Page + Jekyll !"
-subtitle   : "Git page建立 + Jekyll安裝流程"
+subtitle   : "write your first article on github"
 date       : 2017-04-15
 author     : "Tim Ho"
 tags       : GitPage Jekyll
