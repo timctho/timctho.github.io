@@ -71,8 +71,8 @@
     position: fixed;
     width: 100%;
     margin-bottom: 20px;
-    background-color: #2ECCFA;
-    color: #655643;
+    background-color: #272822;
+    color: #E6E6E6;
     z-index: 10;
     text-align: center;
 }
@@ -82,7 +82,7 @@
 }
 .theme-base-chocolate .navbar a {
     display: inline-block;
-    color: #655643;
+    color: #E6E6E6;
     text-decoration: none;
     margin: 0 10px;
     margin-bottom: 5px;
@@ -233,12 +233,27 @@
     padding: 0;
     padding-left: 40px;
     text-align: justify;
-    font-size: 16px;
+    font-size: 40px;
+    font-weight: bold;
 }
 .theme-base-chocolate .tag-cloud li {
     display: inline-block;
     margin: 0 12px 12px 0;
 }
+.theme-base-chocolate .tag-cloud-bbox {
+    border-radius: 5px;
+    padding: .2em .6em .3em;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #268bd2;
+    color: white;
+    font-style: normal;
+    opacity: 0.7;
+}
+.theme-base-chocolate .tag-cloud-bbox:hover {
+    opacity: 1;
+}
+
 /* End of Archive */
 /* Other */
 
