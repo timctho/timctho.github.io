@@ -17,7 +17,7 @@ Github除了可以管理、分享程式碼之外，也有提供一個服務叫�
 ---
 
 ## 開始 Git Page
-建立Git Page，首先要開一個新的repository。這邊有兩種方式，取決於你的網站想要呈現怎樣的url
+建立Git Page，首先要開一個新的repository。這邊有兩種方式，取決於你的網站想要呈現怎樣的url。
 
 1. repository的名字叫做 `user_name.github.io` ，那之後你的url就會是 `user_name.github.io` ，網站內容直接放在 `master` 中就可以了。
 <br />
