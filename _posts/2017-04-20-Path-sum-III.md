@@ -49,7 +49,7 @@ class Solution(object):
 舉個例子，一顆樹長做 [10,5,-2,3,2,None,11,3,-2,None,1,None,-3] ，DFS順序跟table變化如下。
 ```
 <div align="center">
-<img src="{{baseurl}}/images/leet_code/pathsum.png" />
+<img src="{{baseurl}}/images/leet_code/pathSum.png" />
 </div>
 
 {% highlight python %}
